@@ -1,0 +1,350 @@
+Disease,Fever,Cough,Fatigue,Difficulty Breathing,Age,Gender,Blood Pressure,Cholesterol Level,Outcome Variable,age_group,symptom,medicine,dosage
+Influenza,Yes,No,Yes,Yes,19,Female,Low,Normal,Positive,below_15,cough,Paracetmol,150mg
+Common Cold,No,Yes,Yes,No,25,Female,Normal,Normal,Negative,below_15,fever,Paracetmol,150mg
+Eczema,No,Yes,Yes,No,25,Female,Normal,Normal,Negative,below_15,fever,Paracetmol,150mg
+Asthma,Yes,Yes,No,Yes,25,Male,Normal,Normal,Positive,below_15,fever,Cymbalta,150mg
+Asthma,Yes,Yes,No,Yes,25,Male,Normal,Normal,Positive,below_15,fever,Cymbalta,150mg
+Eczema,Yes,No,No,No,25,Female,Normal,Normal,Positive,below_15,fever,Cymbalta,150mg
+Influenza,Yes,Yes,Yes,Yes,25,Female,Normal,Normal,Positive,below_15,fever,Cymbalta,150mg
+Influenza,Yes,Yes,Yes,Yes,25,Female,Normal,Normal,Positive,below_15,pain,Cymbalta,150mg
+Hyperthyroidism,No,Yes,No,No,28,Female,Normal,Normal,Negative,below_15,fever,Cymbalta,150mg
+Hyperthyroidism,No,Yes,No,No,28,Female,Normal,Normal,Negative,below_15,fever,Paracetmol,150mg
+Asthma,Yes,No,No,Yes,28,Male,High,Normal,Positive,below_15,fever,Paracetmol,150mg
+Allergic Rhinitis,No,Yes,Yes,No,29,Female,Normal,Low,Negative,below_15,fever,Paracetmol,150mg
+Anxiety Disorders,No,Yes,No,No,29,Female,Normal,High,Negative,below_15,fever,Paracetmol,150mg
+Common Cold,No,No,No,No,29,Female,Low,Normal,Negative,below_15,fever,Paracetmol,150mg
+Diabetes,No,No,No,No,29,Male,Low,Normal,Negative,below_15,fever,Paracetmol,150mg
+Gastroenteritis,No,Yes,No,No,29,Female,Normal,Normal,Negative,below_15,fever,Paracetmol,150mg
+Pancreatitis,Yes,No,No,No,29,Female,High,Normal,Negative,below_15,fever,Paracetmol,150mg
+Rheumatoid Arthritis,No,Yes,Yes,Yes,29,Female,High,High,Negative,below_15,fever,Methadone,150mg
+Depression,Yes,Yes,Yes,Yes,29,Male,High,Normal,Positive,below_15,fever,Methadone,150mg
+Liver Cancer,Yes,Yes,Yes,Yes,29,Female,Normal,Normal,Positive,below_15,fever,Methadone,150mg
+Stroke,Yes,Yes,Yes,Yes,29,Female,Normal,Normal,Positive,below_15,cough,Methadone,150mg
+Urinary Tract Infection,Yes,Yes,Yes,No,29,Male,High,High,Positive,below_15,fever,Methadone,150mg
+Dengue Fever,Yes,No,Yes,No,30,Female,Normal,Normal,Negative,below_15,fever,Methadone,150mg
+Dengue Fever,Yes,No,Yes,No,30,Female,Normal,Normal,Negative,below_15,fever,Paracetmol,150mg
+Eczema,No,Yes,Yes,No,30,Male,High,High,Negative,below_15,fever,Paracetmol,150mg
+Gastroenteritis,Yes,Yes,Yes,No,30,Male,High,High,Negative,below_15,fever,Paracetmol,150mg
+Hepatitis,Yes,Yes,Yes,Yes,30,Male,High,Normal,Negative,below_15,fever,Paracetmol,150mg
+Kidney Cancer,No,No,Yes,No,30,Male,Normal,Normal,Negative,below_15,fever,Paracetmol,150mg
+Migraine,Yes,No,No,No,30,Female,Normal,Normal,Negative,below_15,fever,Paracetmol,150mg
+Migraine,No,Yes,Yes,No,30,Female,Normal,Normal,Negative,below_15,fever,Paracetmol,150mg
+Muscular Dystrophy,No,No,Yes,No,30,Male,High,High,Negative,below_15,fever,Pantoprazole,150mg
+Sinusitis,No,Yes,Yes,No,30,Male,Normal,Normal,Negative,below_15,fever,Pantoprazole,150mg
+Ulcerative Colitis,Yes,Yes,No,No,30,Female,Normal,Normal,Negative,below_15,fever,Pantoprazole,150mg
+Ulcerative Colitis,No,Yes,Yes,No,30,Female,Normal,Normal,Negative,below_15,fever,Pantoprazole,150mg
+Asthma,Yes,Yes,No,Yes,30,Female,Normal,Normal,Positive,below_15,fever,Pantoprazole,150mg
+Asthma,Yes,Yes,No,Yes,30,Female,Normal,Normal,Positive,below_15,fever,Pantoprazole,150mg
+Asthma,Yes,Yes,Yes,Yes,30,Female,Normal,Normal,Positive,below_15,fever,Pantoprazole,150mg
+Bipolar Disorder,No,No,Yes,No,30,Female,High,High,Positive,below_15,fever,Paracetmol,150mg
+Bronchitis,Yes,Yes,No,Yes,30,Female,Low,Normal,Positive,below_15,fever,Paracetmol,150mg
+Bronchitis,Yes,Yes,Yes,Yes,30,Male,High,High,Positive,below_15,fever,Paracetmol,150mg
+Bronchitis,Yes,Yes,Yes,Yes,30,Male,High,High,Positive,below_15,fever,Paracetmol,150mg
+Cerebral Palsy,No,No,Yes,Yes,30,Female,Normal,Normal,Positive,below_15,fever,Paracetmol,150mg
+Colorectal Cancer,No,No,Yes,No,30,Female,Normal,High,Positive,below_15,fever,Paracetmol,150mg
+Eczema,Yes,No,No,No,30,Male,High,High,Positive,below_15,fever,Paracetmol,150mg
+Hypertensive Heart Disease,No,No,Yes,No,30,Female,High,High,Positive,below_15,fever,Paracetmol,150mg
+Influenza,Yes,Yes,Yes,No,30,Male,High,Normal,Positive,below_15,fever,Paracetmol,150mg
+Influenza,Yes,Yes,Yes,Yes,30,Female,Normal,Normal,Positive,below_15,fever,Paracetmol,150mg
+Multiple Sclerosis,No,No,Yes,No,30,Female,High,High,Positive,below_15,fever,Paracetmol,150mg
+Myocardial Infarction (Heart...,Yes,Yes,Yes,Yes,30,Female,High,High,Positive,below_15,fever,Amoxicillin,150mg
+Urinary Tract Infection (UTI),Yes,No,No,No,30,Female,Normal,Normal,Positive,below_15,fever,Amoxicillin,150mg
+Asthma,No,No,No,Yes,31,Male,Normal,Low,Negative,below_15,fever,Amoxicillin,150mg
+Osteoporosis,No,No,No,Yes,31,Male,Low,Normal,Negative,below_15,fever,Amoxicillin,150mg
+Common Cold,Yes,No,Yes,Yes,31,Male,High,High,Positive,below_15,fever,Amoxicillin,150mg
+Migraine,Yes,No,No,No,31,Female,Normal,Normal,Positive,below_15,fever,Amoxicillin,150mg
+Pneumonia,Yes,No,Yes,Yes,32,Female,High,Normal,Positive,below_15,fever,Amoxicillin,150mg
+Allergic Rhinitis,No,No,Yes,No,35,Female,Normal,Low,Negative,below_15,fever,Amoxicillin,150mg
+Asthma,No,Yes,Yes,Yes,35,Female,Normal,High,Negative,below_15,fever,Amoxicillin,150mg
+Asthma,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative,below_15,fever,Amoxicillin,150mg
+Asthma,No,Yes,Yes,Yes,35,Female,High,Normal,Negative,below_15,fever,Paracetmol,150mg
+Asthma,No,Yes,Yes,Yes,35,Female,High,Normal,Negative,below_15,fever,Probuphine,150mg
+Atherosclerosis,No,No,Yes,No,35,Male,Normal,Normal,Negative,below_15,fever,Probuphine,150mg
+Chronic Obstructive Pulmonary...,Yes,Yes,Yes,Yes,35,Male,Normal,Normal,Negative,below_15,fever,Probuphine,150mg
+Common Cold,Yes,Yes,Yes,No,35,Male,High,Normal,Negative,below_15,fever,Probuphine,150mg
+Eczema,No,Yes,No,No,35,Male,High,Normal,Negative,below_15,fever,Probuphine,150mg
+Epilepsy,No,No,Yes,No,35,Male,High,High,Negative,below_15,fever,Probuphine,150mg
+Hypertension,Yes,Yes,Yes,No,35,Female,High,Normal,Negative,below_15,fever,Probuphine,150mg
+Hyperthyroidism,Yes,Yes,Yes,No,35,Female,Normal,Normal,Negative,below_15,fever,Probuphine,150mg
+Obsessive-Compulsive Disorde...,No,No,Yes,No,35,Male,Normal,Normal,Negative,below_15,fever,Probuphine,150mg
+Pneumonia,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative,below_15,fever,Probuphine,150mg
+Pneumonia,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative,below_15,fever,Probuphine,150mg
+Psoriasis,Yes,No,No,No,35,Female,Normal,Low,Negative,below_15,fever,Probuphine,150mg
+Psoriasis,No,Yes,Yes,No,35,Female,Normal,Low,Negative,below_15,fever,Paracetmol,150mg
+Rubella,Yes,No,Yes,No,35,Female,High,Normal,Negative,below_15,fever,Paracetmol,150mg
+Rubella,Yes,No,Yes,No,35,Female,High,Normal,Negative,below_15,fever,Paracetmol,150mg
+Urinary Tract Infection (UTI),No,Yes,Yes,No,35,Male,High,High,Negative,below_15,fever,Paracetmol,150mg
+Asthma,Yes,Yes,No,Yes,35,Male,Normal,Normal,Positive,below_15,fever,Paracetmol,150mg
+Asthma,Yes,Yes,No,Yes,35,Male,Normal,Normal,Positive,below_15,fever,Paracetmol,150mg
+Cirrhosis,No,No,Yes,No,35,Female,Normal,High,Positive,below_15,fever,Paracetmol,150mg
+Conjunctivitis (Pink Eye),No,Yes,No,No,35,Female,High,High,Positive,below_15,fever,Paracetmol,150mg
+Depression,No,No,Yes,No,35,Female,Normal,High,Positive,below_15,fever,Paracetmol,150mg
+Gastroenteritis,Yes,No,Yes,Yes,35,Male,Low,High,Positive,below_15,fever,Paracetmol,150mg
+Hyperthyroidism,Yes,Yes,Yes,No,35,Male,High,High,Positive,below_15,fever,Paracetmol,150mg
+Hyperthyroidism,Yes,Yes,Yes,No,35,Male,High,High,Positive,below_15,fever,Prednisone,150mg
+Kidney Cancer,No,No,Yes,No,35,Male,High,High,Positive,below_15,fever,Prednisone,150mg
+Liver Cancer,No,No,Yes,No,35,Female,High,High,Positive,below_15,fever,Prednisone,150mg
+Liver Disease,No,No,Yes,No,35,Male,High,High,Positive,below_15,fever,Prednisone,150mg
+Malaria,Yes,No,No,No,35,Male,High,High,Positive,below_15,fever,Prednisone,150mg
+Malaria,Yes,No,No,No,35,Male,High,High,Positive,below_15,fever,Prednisone,150mg
+Migraine,No,Yes,Yes,No,35,Male,High,High,Positive,below_15,fever,Prednisone,150mg
+Migraine,Yes,No,No,No,35,Male,High,High,Positive,below_15,fever,Prednisone,150mg
+Pancreatitis,No,No,Yes,No,35,Male,Normal,High,Positive,below_15,fever,Prednisone,150mg
+Rheumatoid Arthritis,Yes,Yes,Yes,No,35,Male,Normal,Low,Positive,below_15,fever,Paracetmol,150mg
+Rheumatoid Arthritis,No,No,Yes,No,35,Female,Normal,Low,Positive,below_15,fever,Paracetmol,150mg
+Spina Bifida,No,No,Yes,No,35,Female,Normal,Normal,Positive,below_15,fever,Paracetmol,150mg
+Ulcerative Colitis,No,No,Yes,No,35,Male,High,High,Positive,below_15,fever,Paracetmol,150mg
+Ulcerative Colitis,Yes,No,No,No,35,Male,High,High,Positive,below_15,fever,Paracetmol,150mg
+Urinary Tract Infection,Yes,No,Yes,No,35,Female,Normal,High,Positive,below_15,fever,Paracetmol,150mg
+Allergic Rhinitis,No,Yes,No,No,38,Female,Low,Normal,Negative,below_15,fever,Paracetmol,150mg
+Depression,No,No,No,No,38,Female,Normal,High,Negative,below_15,fever,Paracetmol,150mg
+Gastroenteritis,No,No,No,No,38,Male,Normal,Low,Negative,below_15,fever,Paracetmol,150mg
+Influenza,No,No,No,No,38,Male,Normal,Normal,Negative,below_15,fever,Paracetmol,150mg
+Kidney Disease,No,No,Yes,No,38,Female,Low,Normal,Negative,below_15,fever,Paracetmol,150mg
+Liver Cancer,Yes,Yes,No,No,38,Female,High,Normal,Negative,below_15,fever,Paracetmol,150mg
+Liver Disease,No,Yes,No,Yes,38,Male,Low,Normal,Negative,below_15,fever,Paracetmol,150mg
+Osteoporosis,No,Yes,No,No,38,Female,Normal,High,Negative,below_15,fever,Paracetmol,150mg
+Stroke,Yes,Yes,No,No,38,Female,High,Normal,Negative,below_15,fever,Paracetmol,150mg
+Anxiety Disorders,Yes,No,Yes,Yes,38,Male,High,High,Positive,below_15,fever,Metformin,150mg
+Diabetes,Yes,No,Yes,Yes,38,Male,High,Low,Positive,below_15,fever,Metformin,150mg
+Migraine,Yes,Yes,No,No,38,Male,High,High,Positive,below_15,fever,Metformin,150mg
+Osteoarthritis,Yes,Yes,Yes,No,38,Male,High,High,Positive,below_15,fever,Metformin,150mg
+Pneumonia,Yes,Yes,Yes,Yes,38,Male,Normal,Normal,Positive,below_15,fever,Metformin,150mg
+Klinefelter Syndrome,No,No,Yes,No,39,Female,Normal,Normal,Positive,below_15,fever,Metformin,150mg
+Acne,No,No,Yes,No,40,Male,Normal,Normal,Negative,below_15,fever,Metformin,150mg
+Brain Tumor,No,No,Yes,No,40,Male,Normal,Normal,Negative,below_15,fever,Metformin,150mg
+Bronchitis,No,Yes,No,Yes,40,Female,Normal,Normal,Negative,below_15,fever,Metformin,150mg
+Cystic Fibrosis,No,No,Yes,Yes,40,Male,High,High,Negative,below_15,fever,Metformin,150mg
+Diabetes,Yes,No,No,No,40,Female,High,High,Negative,below_15,fever,Paracetmol,150mg
+Glaucoma,No,No,Yes,No,40,Male,High,Normal,Negative,below_15,fever,Paracetmol,150mg
+Osteoarthritis,No,No,Yes,No,40,Male,High,Normal,Negative,below_15,fever,Paracetmol,150mg
+Rabies,Yes,Yes,No,No,40,Female,High,Normal,Negative,below_15,fever,Paracetmol,150mg
+Rabies,Yes,Yes,No,No,40,Female,High,Normal,Negative,below_15,fever,Paracetmol,150mg
+Asthma,Yes,No,Yes,No,40,Male,Low,Normal,Positive,below_15,fever,Paracetmol,150mg
+Asthma,Yes,Yes,No,Yes,40,Female,Normal,Normal,Positive,below_15,fever,Paracetmol,150mg
+Asthma,Yes,Yes,No,Yes,40,Female,Normal,Normal,Positive,below_15,fever,Paracetmol,150mg
+Asthma,No,No,Yes,Yes,40,Male,High,High,Positive,below_15,fever,Paracetmol,150mg
+Asthma,Yes,No,Yes,Yes,40,Male,Normal,High,Positive,below_15,fever,Paracetmol,150mg
+Asthma,Yes,No,Yes,Yes,40,Male,Normal,High,Positive,below_15,fever,Paracetmol,150mg
+Chickenpox,No,Yes,No,No,40,Male,Normal,High,Positive,below_15,fever,Paracetmol,150mg
+Chickenpox,No,Yes,No,No,40,Male,Normal,High,Positive,below_15,fever,Paracetmol,150mg
+Coronary Artery Disease,No,No,Yes,No,40,Female,High,High,Positive,below_15,fever,Paracetmol,150mg
+"Eating Disorders (Anorexia,...",No,No,Yes,No,40,Female,High,High,Positive,below_15,fever,Paracetmol,150mg
+Fibromyalgia,No,No,Yes,No,40,Female,High,High,Positive,below_15,fever,Paracetmol,150mg
+Gastroenteritis,Yes,Yes,Yes,No,40,Male,High,High,Positive,below_15,fever,Paracetmol,150mg
+Hemophilia,No,No,Yes,No,40,Female,Normal,Normal,Positive,below_15,fever,Paracetmol,150mg
+Hyperthyroidism,No,No,Yes,No,40,Male,High,High,Positive,below_15,fever,Paracetmol,150mg
+Hypoglycemia,No,No,Yes,No,40,Female,High,High,Positive,below_15,fever,Paracetmol,150mg
+Lymphoma,No,Yes,No,No,40,Female,Normal,High,Positive,below_15,fever,Paracetmol,150mg
+Pneumonia,Yes,Yes,Yes,Yes,40,Female,Normal,High,Positive,below_15,fever,Paracetmol,150mg
+Psoriasis,No,Yes,Yes,No,40,Male,High,Normal,Positive,below_15,fever,Farxiga,150mg
+Psoriasis,Yes,No,No,No,40,Male,High,Normal,Positive,below_15,fever,Farxiga,150mg
+Psoriasis,No,Yes,No,No,40,Female,Normal,High,Positive,below_15,fever,Farxiga,150mg
+Tuberculosis,Yes,Yes,Yes,Yes,40,Male,High,High,Positive,below_15,fever,Farxiga,150mg
+Tuberculosis,Yes,Yes,Yes,Yes,40,Male,High,High,Positive,below_15,fever,Farxiga,150mg
+Anxiety Disorders,No,No,No,No,42,Male,Low,Normal,Negative,below_15,fever,Farxiga,150mg
+Common Cold,Yes,Yes,No,No,42,Female,High,High,Negative,below_15,fever,Farxiga,150mg
+Depression,Yes,No,No,Yes,42,Male,High,Normal,Negative,below_15,fever,Farxiga,150mg
+Influenza,No,Yes,No,No,42,Female,Normal,High,Negative,below_15,fever,Farxiga,150mg
+Kidney Cancer,Yes,No,No,No,42,Female,Normal,Normal,Negative,below_15,fever,Farxiga,150mg
+Liver Cancer,Yes,No,Yes,Yes,42,Male,Normal,Low,Negative,below_15,fever,Farxiga,150mg
+Liver Disease,Yes,No,No,Yes,42,Female,Normal,Normal,Negative,below_15,fever,Farxiga,150mg
+Lung Cancer,Yes,No,Yes,Yes,42,Male,Normal,Low,Negative,below_15,headache,Farxiga,150mg
+Migraine,Yes,Yes,Yes,No,42,Male,High,High,Negative,below_15,fever,Farxiga,150mg
+Osteoarthritis,No,No,Yes,No,42,Male,Normal,Low,Negative,below_15,fever,Paracetmol,150mg
+Stroke,Yes,No,Yes,No,42,Male,Normal,Low,Negative,below_15,fever,Paracetmol,150mg
+Urinary Tract Infection,No,Yes,Yes,Yes,42,Female,Normal,Low,Negative,below_15,fever,Paracetmol,150mg
+Diabetes,Yes,Yes,Yes,No,42,Male,High,Normal,Positive,below_15,fever,Paracetmol,150mg
+Hypothyroidism,Yes,Yes,Yes,No,42,Female,High,High,Positive,below_15,fever,Paracetmol,150mg
+Hypothyroidism,Yes,Yes,Yes,No,42,Female,High,High,Positive,below_15,headache,Paracetmol,150mg
+Kidney Disease,Yes,No,Yes,No,42,Female,High,Low,Positive,below_15,fever,Paracetmol,150mg
+Pneumonia,No,Yes,Yes,Yes,43,Female,High,Normal,Positive,below_15,fever,Paracetmol,150mg
+Allergic Rhinitis,No,Yes,Yes,No,45,Male,High,Normal,Negative,below_15,fever,Paracetmol,150mg
+Autism Spectrum Disorder (ASD),No,No,Yes,No,45,Male,Normal,Normal,Negative,below_15,fever,Paracetmol,150mg
+Crohn's Disease,Yes,No,Yes,No,45,Male,High,Normal,Negative,below_15,fever,Paracetmol,150mg
+Hepatitis,Yes,No,Yes,No,45,Female,High,High,Negative,below_15,fever,Paracetmol,150mg
+Hepatitis,Yes,No,Yes,No,45,Female,High,High,Negative,below_15,fever,Paracetmol,150mg
+Hyperglycemia,No,No,Yes,No,45,Male,Normal,Normal,Negative,below_15,fever,Paracetmol,150mg
+Kidney Cancer,No,Yes,Yes,Yes,45,Male,Normal,Low,Negative,below_15,fever,Paracetmol,150mg
+Kidney Disease,Yes,Yes,No,No,45,Male,Normal,High,Negative,below_15,fever,Paracetmol,150mg
+Melanoma,Yes,No,Yes,No,45,Male,High,Normal,Negative,below_15,fever,Paracetmol,150mg
+Migraine,No,No,No,No,45,Female,Low,Normal,Negative,below_15,fever,Paracetmol,150mg
+Ovarian Cancer,No,No,Yes,No,45,Male,Normal,Normal,Negative,below_15,fever,Paracetmol,150mg
+Pancreatitis,No,Yes,Yes,Yes,45,Male,Normal,Low,Negative,below_15,fever,Paracetmol,150mg
+Rheumatoid Arthritis,Yes,No,No,No,45,Male,Normal,Normal,Negative,below_15,fever,Paracetmol,150mg
+Stroke,No,No,Yes,No,45,Male,Normal,Normal,Negative,below_15,fever,Paracetmol,150mg
+Turner Syndrome,No,No,Yes,No,45,Male,High,High,Negative,above_15,fever,Paracetmol,500mg
+Turner Syndrome,No,No,Yes,No,45,Male,High,High,Negative,above_15,fever,Paracetmol,500mg
+Urinary Tract Infection,No,No,No,No,45,Female,Low,Normal,Negative,above_15,fever,Paracetmol,500mg
+Zika Virus,No,Yes,Yes,No,45,Female,High,High,Negative,above_15,headache,Paracetmol,500mg
+Zika Virus,No,Yes,Yes,No,45,Female,High,High,Negative,above_15,fever,Paracetmol,500mg
+Allergic Rhinitis,Yes,Yes,Yes,No,45,Male,High,Normal,Positive,above_15,pain,Paracetmol,500mg
+Anxiety Disorders,Yes,Yes,Yes,No,45,Male,High,Normal,Positive,above_15,fever,Paracetmol,500mg
+Asthma,Yes,Yes,No,Yes,45,Male,Normal,Normal,Positive,above_15,fever,Paracetmol,500mg
+Asthma,Yes,Yes,No,Yes,45,Male,Normal,Normal,Positive,above_15,fever,Paracetmol,500mg
+Cataracts,No,No,Yes,No,45,Female,Normal,High,Positive,above_15,fever,Paracetmol,500mg
+Crohn's Disease,No,No,Yes,No,45,Female,High,High,Positive,above_15,fever,Paracetmol,500mg
+Crohn's Disease,Yes,Yes,Yes,No,45,Female,High,High,Positive,above_15,fever,Entyvio,500mg
+Depression,No,No,Yes,No,45,Female,High,High,Positive,above_15,fever,Entyvio,500mg
+Diabetes,Yes,No,Yes,No,45,Female,High,High,Positive,above_15,fever,Entyvio,500mg
+Diabetes,No,Yes,Yes,No,45,Male,Normal,High,Positive,above_15,fever,Entyvio,500mg
+Hypertension,Yes,No,Yes,No,45,Male,Normal,High,Positive,above_15,fever,Entyvio,500mg
+Hypothyroidism,No,No,Yes,No,45,Female,High,High,Positive,above_15,fever,Entyvio,500mg
+Liver Disease,Yes,Yes,Yes,No,45,Female,Normal,High,Positive,above_15,fever,Entyvio,500mg
+Multiple Sclerosis,Yes,No,No,No,45,Female,High,High,Positive,above_15,cough,Entyvio,500mg
+Multiple Sclerosis,Yes,No,No,No,45,Female,High,High,Positive,above_15,fever,Entyvio,500mg
+Osteoarthritis,Yes,No,Yes,Yes,45,Male,High,Normal,Positive,above_15,fever,Entyvio,500mg
+Osteoporosis,Yes,Yes,Yes,No,45,Female,Normal,High,Positive,above_15,fever,Entyvio,500mg
+Pneumocystis Pneumonia (PCP),Yes,Yes,Yes,No,45,Female,High,High,Positive,above_15,fever,Entyvio,500mg
+Pneumonia,Yes,Yes,Yes,Yes,45,Male,High,High,Positive,above_15,fever,Entyvio,500mg
+Scoliosis,No,No,No,No,45,Female,High,High,Positive,above_15,fever,Entyvio,500mg
+Sickle Cell Anemia,No,No,Yes,No,45,Female,Normal,Normal,Positive,above_15,fever,Entyvio,500mg
+Tetanus,No,No,Yes,No,45,Male,Normal,High,Positive,above_15,fever,Entyvio,500mg
+Tetanus,No,No,Yes,No,45,Male,Normal,High,Positive,above_15,pain,Entyvio,500mg
+Hypertension,No,No,No,No,48,Female,Low,High,Negative,above_15,fever,Entyvio,500mg
+Hypothyroidism,No,No,Yes,No,48,Male,Normal,High,Negative,above_15,fever,Entyvio,500mg
+Hypothyroidism,No,No,Yes,No,48,Male,Normal,High,Negative,above_15,fever,Entyvio,500mg
+Allergic Rhinitis,Yes,No,No,No,50,Male,High,High,Negative,above_15,fever,Entyvio,500mg
+Anemia,No,No,Yes,No,50,Male,Normal,Normal,Negative,above_15,fever,Entyvio,500mg
+Anxiety Disorders,No,No,Yes,No,50,Male,Normal,Normal,Negative,above_15,fever,Entyvio,500mg
+Cholera,Yes,No,Yes,Yes,50,Female,High,High,Negative,above_15,cough,Entyvio,500mg
+Cholera,Yes,No,Yes,Yes,50,Female,High,High,Negative,above_15,fever,Entyvio,500mg
+Crohn's Disease,Yes,Yes,Yes,No,50,Male,Normal,High,Negative,above_15,fever,Entyvio,500mg
+Crohn's Disease,No,No,Yes,No,50,Male,Normal,High,Negative,above_15,fever,Entyvio,500mg
+Depression,No,Yes,Yes,No,50,Female,Low,Low,Negative,above_15,fever,Entyvio,500mg
+Diabetes,No,Yes,No,No,50,Male,Normal,High,Negative,above_15,fever,Entyvio,500mg
+Endometriosis,Yes,No,No,No,50,Male,High,Normal,Negative,above_15,fever,Entyvio,500mg
+Hypertension,No,Yes,No,No,50,Female,Normal,Low,Negative,above_15,fever,Entyvio,500mg
+Hypothyroidism,Yes,Yes,Yes,No,50,Male,Normal,High,Negative,above_15,fever,Entyvio,500mg
+Kidney Cancer,No,Yes,No,No,50,Male,Low,High,Negative,above_15,headache,Entyvio,500mg
+Kidney Disease,No,Yes,No,Yes,50,Male,Normal,Normal,Negative,above_15,fever,Entyvio,500mg
+Pancreatitis,No,Yes,No,No,50,Male,Low,High,Negative,above_15,fever,Entyvio,500mg
+Rheumatoid Arthritis,No,Yes,No,No,50,Female,Low,Normal,Negative,above_15,fever,Entyvio,500mg
+Sepsis,Yes,Yes,Yes,No,50,Male,Normal,Normal,Negative,above_15,fever,Entyvio,500mg
+Sleep Apnea,Yes,No,Yes,Yes,50,Male,High,High,Negative,above_15,fever,Entyvio,500mg
+Urinary Tract Infection,Yes,Yes,No,Yes,50,Male,High,Normal,Negative,above_15,fever,Entyvio,500mg
+Asthma,Yes,Yes,Yes,Yes,50,Female,Normal,High,Positive,above_15,fever,Entyvio,500mg
+Bronchitis,Yes,Yes,Yes,Yes,50,Male,High,High,Positive,above_15,fever,Entyvio,500mg
+Down Syndrome,No,No,Yes,No,50,Female,High,High,Positive,above_15,fever,Entyvio,500mg
+Ebola Virus,Yes,Yes,Yes,Yes,50,Male,Normal,Normal,Positive,above_15,fever,Entyvio,500mg
+Ebola Virus,Yes,Yes,Yes,Yes,50,Male,Normal,Normal,Positive,above_15,fever,Entyvio,500mg
+Eczema,No,Yes,No,No,50,Female,High,High,Positive,above_15,fever,Entyvio,500mg
+Gastroenteritis,Yes,Yes,Yes,Yes,50,Female,High,Normal,Positive,above_15,fever,Entyvio,500mg
+Klinefelter Syndrome,No,No,Yes,No,50,Female,Normal,Normal,Positive,above_15,cough,Entyvio,500mg
+Liver Cancer,No,Yes,Yes,Yes,50,Male,High,High,Positive,above_15,fever,Entyvio,500mg
+Lyme Disease,Yes,No,No,No,50,Male,Normal,High,Positive,above_15,fever,Entyvio,500mg
+Lyme Disease,Yes,No,No,No,50,Male,Normal,High,Positive,above_15,fever,Entyvio,500mg
+Pancreatic Cancer,No,No,Yes,No,50,Female,High,High,Positive,above_15,fever,Entyvio,500mg
+Pneumothorax,No,No,Yes,Yes,50,Female,High,High,Positive,above_15,fever,Entyvio,500mg
+Stroke,No,Yes,Yes,Yes,50,Male,High,High,Positive,above_15,fever,Entyvio,500mg
+Ulcerative Colitis,No,Yes,Yes,No,50,Female,Normal,High,Positive,above_15,pain,Entyvio,500mg
+Hypertension,Yes,Yes,No,No,52,Male,Normal,Low,Negative,above_15,fever,Entyvio,500mg
+Multiple Sclerosis,No,Yes,Yes,No,52,Male,Normal,Normal,Negative,above_15,fever,Entyvio,500mg
+Multiple Sclerosis,No,Yes,Yes,No,52,Male,Normal,Normal,Negative,above_15,fever,Entyvio,500mg
+Appendicitis,Yes,No,Yes,No,55,Male,Normal,Normal,Negative,above_15,fever,Entyvio,500mg
+Bronchitis,No,No,Yes,Yes,55,Male,High,High,Negative,above_15,fever,Entyvio,500mg
+Bronchitis,Yes,Yes,Yes,Yes,55,Male,High,Normal,Negative,above_15,fever,Entyvio,500mg
+Common Cold,Yes,No,Yes,Yes,55,Male,Normal,Low,Negative,above_15,fever,Entyvio,500mg
+Diabetes,No,Yes,No,No,55,Female,Normal,High,Negative,above_15,fever,Entyvio,500mg
+Esophageal Cancer,No,No,Yes,No,55,Male,Normal,Normal,Negative,above_15,fever,Entyvio,500mg
+HIV/AIDS,Yes,No,No,No,55,Female,High,High,Negative,above_15,fever,Entyvio,500mg
+HIV/AIDS,Yes,No,No,No,55,Female,High,High,Negative,above_15,fever,Entyvio,500mg
+Hypertension,No,Yes,No,No,55,Female,Normal,Low,Negative,above_15,fever,Entyvio,500mg
+Liver Disease,No,Yes,Yes,No,55,Male,High,Low,Negative,above_15,cough,Entyvio,500mg
+Marfan Syndrome,No,No,Yes,No,55,Male,High,High,Negative,above_15,fever,Entyvio,500mg
+Migraine,No,Yes,Yes,Yes,55,Female,Normal,Low,Negative,above_15,fever,Entyvio,500mg
+Osteoporosis,No,No,Yes,No,55,Male,High,Normal,Negative,above_15,fever,Entyvio,500mg
+Parkinson's Disease,No,No,Yes,No,55,Female,Normal,Low,Negative,above_15,fever,Entyvio,500mg
+Parkinson's Disease,No,No,Yes,No,55,Female,Normal,Low,Negative,above_15,fever,Entyvio,500mg
+Anxiety Disorders,Yes,Yes,No,No,55,Female,Normal,Low,Positive,above_15,cough,Entyvio,500mg
+Coronary Artery Disease,No,No,Yes,No,55,Female,Normal,Normal,Positive,above_15,fever,Entyvio,500mg
+Coronary Artery Disease,No,No,Yes,No,55,Female,Normal,Normal,Positive,above_15,fever,Entyvio,500mg
+Hemorrhoids,No,No,No,No,55,Female,High,High,Positive,above_15,fever,Entyvio,500mg
+Hypertension,Yes,No,Yes,No,55,Male,High,Normal,Positive,above_15,fever,Entyvio,500mg
+Hypothyroidism,No,No,Yes,No,55,Female,High,High,Positive,above_15,fever,Entyvio,500mg
+Osteoarthritis,Yes,Yes,No,No,55,Female,High,High,Positive,above_15,fever,Entyvio,500mg
+Osteoporosis,Yes,No,Yes,Yes,55,Male,High,Low,Positive,above_15,fever,Entyvio,500mg
+Osteoporosis,No,Yes,Yes,No,55,Female,Normal,Normal,Positive,above_15,fever,Entyvio,500mg
+Osteoporosis,Yes,No,Yes,No,55,Female,Normal,Normal,Positive,above_15,fever,Paracetmol,500mg
+Osteoporosis,Yes,No,Yes,No,55,Female,Normal,Normal,Positive,above_15,fever,Paracetmol,500mg
+Polycystic Ovary Syndrome (PCOS),Yes,Yes,No,No,55,Female,Normal,Normal,Positive,above_15,fever,Paracetmol,500mg
+Systemic Lupus Erythematosus...,No,Yes,Yes,No,55,Female,High,High,Positive,above_15,fever,Paracetmol,500mg
+Typhoid Fever,No,Yes,No,No,55,Male,Normal,Low,Positive,above_15,cough,Paracetmol,500mg
+Typhoid Fever,No,Yes,No,No,55,Male,Normal,Low,Positive,above_15,fever,Paracetmol,500mg
+Influenza,Yes,Yes,Yes,Yes,56,Male,High,High,Positive,above_15,fever,Paracetmol,500mg
+Pneumonia,Yes,Yes,No,Yes,57,Male,Normal,High,Negative,above_15,fever,Paracetmol,500mg
+Breast Cancer,No,No,Yes,No,60,Male,High,High,Negative,above_15,fever,Paracetmol,500mg
+Coronary Artery Disease,Yes,Yes,No,No,60,Male,High,High,Negative,above_15,infection,Paracetmol,500mg
+Coronary Artery Disease,Yes,Yes,No,No,60,Male,High,High,Negative,above_15,fever,Paracetmol,500mg
+Hyperthyroidism,No,No,Yes,No,60,Male,Normal,Normal,Negative,above_15,fever,Paracetmol,500mg
+Measles,Yes,Yes,No,No,60,Female,High,Normal,Negative,above_15,fever,Paracetmol,500mg
+Measles,Yes,Yes,No,No,60,Female,High,Normal,Negative,above_15,fever,Paracetmol,500mg
+Osteoarthritis,No,Yes,No,Yes,60,Female,Normal,Normal,Negative,above_15,fever,Paracetmol,500mg
+Osteomyelitis,No,No,Yes,No,60,Male,Normal,Normal,Negative,above_15,fever,Paracetmol,500mg
+Osteoporosis,Yes,No,No,No,60,Male,High,High,Negative,above_15,fever,Paracetmol,500mg
+Osteoporosis,No,Yes,No,No,60,Male,High,High,Negative,above_15,fever,Paracetmol,500mg
+Osteoporosis,No,Yes,No,No,60,Male,High,High,Negative,above_15,fever,Paracetmol,500mg
+Polio,Yes,Yes,Yes,No,60,Male,Normal,Normal,Negative,above_15,fever,Paracetmol,500mg
+Asthma,Yes,Yes,Yes,Yes,60,Female,High,High,Positive,above_15,fever,Paracetmol,500mg
+Chronic Kidney Disease,No,No,Yes,No,60,Female,Normal,High,Positive,above_15,fever,Paracetmol,500mg
+Hemophilia,No,No,Yes,No,60,Female,Normal,Normal,Positive,above_15,fever,Paracetmol,500mg
+Hepatitis B,No,Yes,Yes,No,60,Male,Normal,Low,Positive,above_15,fever,Paracetmol,500mg
+Hepatitis B,No,Yes,Yes,No,60,Male,Normal,Low,Positive,above_15,fever,Paracetmol,500mg
+Hypertension,No,No,Yes,No,60,Female,High,Normal,Positive,above_15,fever,Paracetmol,500mg
+Hypertension,Yes,No,Yes,No,60,Male,High,Normal,Positive,above_15,fever,Paracetmol,500mg
+Hypertension,No,No,No,No,60,Female,High,High,Positive,above_15,fever,Paracetmol,500mg
+Kidney Cancer,Yes,Yes,Yes,No,60,Female,High,Normal,Positive,above_15,fever,Paracetmol,500mg
+Kidney Disease,Yes,Yes,Yes,Yes,60,Female,High,High,Positive,above_15,fever,Paracetmol,500mg
+Osteoporosis,Yes,No,Yes,No,60,Male,High,Normal,Positive,above_15,fever,Paracetmol,500mg
+Pancreatitis,Yes,Yes,Yes,No,60,Female,High,Normal,Positive,above_15,fever,Paracetmol,500mg
+Parkinson's Disease,Yes,Yes,No,No,60,Male,High,Normal,Positive,above_15,fever,Paracetmol,500mg
+Parkinson's Disease,Yes,Yes,No,No,60,Male,High,Normal,Positive,above_15,fever,Paracetmol,500mg
+Prader-Willi Syndrome,No,No,Yes,No,60,Female,Normal,Normal,Positive,above_15,fever,Paracetmol,500mg
+Rheumatoid Arthritis,No,No,Yes,No,60,Female,High,High,Positive,above_15,fever,Paracetmol,500mg
+Thyroid Cancer,No,No,Yes,No,60,Female,High,High,Positive,above_15,fever,Paracetmol,500mg
+Tuberculosis,Yes,Yes,Yes,No,60,Female,High,High,Positive,above_15,fever,Paracetmol,500mg
+Bladder Cancer,No,No,Yes,No,65,Male,Normal,Normal,Negative,above_15,fever,Paracetmol,500mg
+Diabetes,No,No,Yes,No,65,Male,Normal,High,Negative,above_15,fever,Paracetmol,500mg
+Otitis Media (Ear Infection),Yes,Yes,Yes,No,65,Male,Normal,Normal,Negative,above_15,fever,Paracetmol,500mg
+Stroke,Yes,No,Yes,No,65,Female,High,Low,Negative,above_15,fever,Paracetmol,500mg
+Stroke,Yes,No,Yes,No,65,Female,High,Low,Negative,above_15,fever,Paracetmol,500mg
+Tourette Syndrome,No,No,Yes,No,65,Male,High,High,Negative,above_15,fever,Paracetmol,500mg
+Urinary Tract Infection (UTI),Yes,No,Yes,No,65,Male,High,Normal,Negative,above_15,fever,Paracetmol,500mg
+Alzheimer's Disease,No,Yes,No,No,65,Male,Normal,High,Positive,above_15,fever,Paracetmol,500mg
+Alzheimer's Disease,No,Yes,No,No,65,Male,Normal,High,Positive,above_15,fever,Paracetmol,500mg
+Alzheimer's Disease,No,No,Yes,No,65,Female,High,High,Positive,above_15,fever,Paracetmol,500mg
+Bronchitis,Yes,No,Yes,Yes,65,Male,High,High,Positive,above_15,fever,Paracetmol,500mg
+Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,Yes,65,Female,High,High,Positive,above_15,fever,Paracetmol,500mg
+Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,Yes,65,Female,High,High,Positive,above_15,fever,Paracetmol,500mg
+Dementia,No,No,Yes,No,65,Female,High,High,Positive,above_15,fever,Paracetmol,500mg
+Diabetes,Yes,Yes,Yes,No,65,Female,Normal,High,Positive,above_15,fever,Paracetmol,500mg
+Diverticulitis,No,No,Yes,No,65,Female,High,High,Positive,above_15,fever,Paracetmol,500mg
+Liver Cancer,Yes,Yes,Yes,No,65,Female,High,High,Positive,above_15,fever,Paracetmol,500mg
+Lung Cancer,Yes,Yes,Yes,No,65,Female,High,High,Positive,above_15,fever,Paracetmol,500mg
+Lung Cancer,Yes,No,Yes,No,65,Female,Normal,High,Positive,above_15,fever,Paracetmol,500mg
+Mumps,No,No,Yes,No,65,Male,Normal,High,Positive,above_15,fever,Cephalexin,500mg
+Mumps,No,No,Yes,No,65,Male,Normal,High,Positive,above_15,fever,Cephalexin,500mg
+Osteoporosis,No,Yes,Yes,No,65,Female,High,High,Positive,above_15,fever,Cephalexin,500mg
+Stroke,Yes,Yes,Yes,No,65,Female,High,High,Positive,above_15,fever,Cephalexin,500mg
+Alzheimer's Disease,Yes,No,Yes,No,70,Female,High,Normal,Negative,above_15,fever,Cephalexin,500mg
+Alzheimer's Disease,Yes,No,Yes,No,70,Female,High,Normal,Negative,above_15,fever,Cephalexin,500mg
+Cholecystitis,No,No,Yes,No,70,Male,Normal,Normal,Negative,above_15,fever,Cephalexin,500mg
+Chronic Obstructive Pulmonary Disease (COPD),No,Yes,Yes,Yes,70,Male,Normal,High,Negative,above_15,fever,Cephalexin,500mg
+Chronic Obstructive Pulmonary Disease (COPD),No,Yes,Yes,Yes,70,Male,Normal,High,Negative,above_15,fever,Cephalexin,500mg
+Osteoporosis,Yes,No,No,No,70,Male,Normal,Normal,Negative,above_15,fever,Cephalexin,500mg
+Parkinson's Disease,No,No,Yes,No,70,Male,Normal,Normal,Negative,above_15,fever,Cephalexin,500mg
+Prostate Cancer,Yes,Yes,No,No,70,Male,High,Normal,Negative,above_15,fever,Cephalexin,500mg
+Schizophrenia,No,Yes,Yes,No,70,Male,Normal,Normal,Negative,above_15,fever,Cephalexin,500mg
+Gout,Yes,No,Yes,No,70,Female,Normal,High,Positive,above_15,fever,Cephalexin,500mg
+Migraine,No,No,Yes,No,70,Female,Normal,Normal,Positive,above_15,fever,Cephalexin,500mg
+Stroke,No,Yes,No,No,70,Male,Normal,High,Positive,above_15,fever,Cephalexin,500mg
+Stroke,No,Yes,No,No,70,Male,Normal,High,Positive,above_15,fever,Cephalexin,500mg
+Testicular Cancer,No,No,Yes,No,70,Female,High,High,Positive,above_15,fever,Cephalexin,500mg
+Tonsillitis,Yes,Yes,Yes,No,70,Female,High,High,Positive,above_15,infection,Paracetmol,500mg
+Williams Syndrome,No,No,Yes,No,70,Female,Normal,Normal,Positive,above_15,fever,Paracetmol,500mg
+Stroke,Yes,No,Yes,No,80,Female,High,High,Positive,above_15,fever,Paracetmol,500mg
+Stroke,Yes,No,Yes,No,80,Female,High,High,Positive,above_15,fever,Paracetmol,500mg
+Stroke,Yes,No,Yes,No,85,Male,High,High,Positive,above_15,pain,Paracetmol,500mg
+Stroke,Yes,No,Yes,No,85,Male,High,High,Positive,above_15,fever,Paracetmol,500mg
+Stroke,Yes,No,Yes,No,90,Female,High,High,Positive,above_15,fever,Paracetmol,500mg
+Stroke,Yes,No,Yes,No,90,Female,High,High,Positive,above_15,cough,Paracetmol,500mg
